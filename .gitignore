@@ -1,0 +1,7 @@
+# Licensed (Orbis) and personal data: never commit
+data_raw_orbis/
+data_processing/
+data_final/
+data_raw_other/*offshore*/
+.ipynb_checkpoints/
+.DS_Store
